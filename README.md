@@ -1,7 +1,7 @@
 <h1>To-Do List Application</h1>
 
 <h2>Overview</h2>
-<p>This To-Do List application allows users to add, mark as complete, and delete tasks. It also saves tasks in the browser's local storage, ensuring that tasks persist even after the page is refreshed.</p>
+<p>This To-Do List application enables users to efficiently manage their tasks by adding, marking as complete, and deleting items. It utilizes the browser's local storage to ensure that all tasks are preserved across sessions, providing a seamless user experience. The application is live and can be accessed at https://dark-programer.github.io/inferno-todo.</p>
 
 <h2>Features</h2>
 <ul>
@@ -32,11 +32,6 @@
 
 <h2>File Structure</h2>
 <pre><code>.
-├── assets
-│   ├── appIcon.png
-│   ├── completedIcon.png
-│   ├── checked.png
-│   └── unchecked.png
 ├── Screenshots
 │   ├── image1.png
 │   ├── image2.png
@@ -44,6 +39,11 @@
 │   └── image4.png
 │   └── image5.png
 │   └── image6.png
+├── assets
+│   ├── appIcon.png
+│   ├── completedIcon.png
+│   ├── checked.png
+│   └── unchecked.png
 ├── index.html
 ├── README.md
 ├── style.css
